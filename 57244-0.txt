@@ -1,36 +1,7 @@
-The Project Gutenberg EBook of The Lost Explorers, by Alexander MacDonald
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 57244 ***
 
 
 
-Title: The Lost Explorers
-       A Story of the Trackless Desert
-
-Author: Alexander MacDonald
-
-Illustrator: Arthur H. Buckland
-
-Release Date: May 31, 2018 [EBook #57244]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE LOST EXPLORERS ***
-
-
-
-
-Produced by Martin Pettit and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from scans of public domain works at The National
-Library of Australia.)
 
 
 
@@ -841,7 +812,7 @@ sweltering heat in the cabins below was almost unbearable. At Aden all
 the India bound passengers disembarked and changed into an awaiting
 vessel which connected with Bombay, and the time allowed before the
 _Mongolia_ resumed her course was amply sufficient to permit of Mackay
-and his _protégés_ going ashore.
+and his _protÃ©gÃ©s_ going ashore.
 
 There is not much to attract at this port. It is simply a military
 barracks and coaling-station, with an enormous importance, of course, as
@@ -918,7 +889,7 @@ geo-logical details concerning it."
 "Is there anything you don't know, Mr. Mackay?" inquired Bob, with a
 smile.
 
-"No' a thing. I'm a walkin' Encyclopædia--just burstin' wi' knowledge.
+"No' a thing. I'm a walkin' EncyclopÃ¦dia--just burstin' wi' knowledge.
 No, I'm wrang; there's ane or twa metapheesical matters that beat me.
 I'll own to that frankly."
 
@@ -4341,7 +4312,7 @@ But their scheme was simple enough, as it turned out. Jackson
 unconsciously explained it away that same night while he was talking to
 Bob by the camp-fire.
 
-"Your neighbours have offered to sell me one of their claims for £1000,"
+"Your neighbours have offered to sell me one of their claims for Â£1000,"
 said he. "They haven't struck the wash yet, but they say, judgin' from
 your ore on the surface, theirs must be as good, if not better, when
 they hit it."
@@ -4395,7 +4366,7 @@ battery returns on the first day of treatment gave the exceptionally
 high result of one hundred and twenty ounces of gold from the twenty
 tons of ore crushed.
 
-"That means, wi' gold at £4 an ounce, £480 between the three o' us, my
+"That means, wi' gold at Â£4 an ounce, Â£480 between the three o' us, my
 lads," said Mackay, when he heard the news. "An' we can calculate on
 twelve times that amount afore we're on to the mirage stuff."
 
@@ -4466,7 +4437,7 @@ Macguire's Threat
 
 It was about this time that Macguire thought it necessary to return to
 the scene of his discomfiture, and view for himself the progress made by
-his worthy confrères. His arrangement with his men was the not uncommon
+his worthy confrÃ¨res. His arrangement with his men was the not uncommon
 one of "grubstaking" for half the profits; that is, he kept them in
 food, and supplied them with all necessary tools in return for a half
 interest in the wealth of the mines so worked. It is a sufficiently
@@ -4794,7 +4765,7 @@ it secret."
 The elder man laughed grimly. "My laddie," he began, with grave
 earnestness, "are ye no' aware that there should be a fortune in this
 for you. There may be tens o' thousands o' tons o' the stuff in this
-Flat, and allowin' ye made a charge of, say, £2 a ton--which is little
+Flat, and allowin' ye made a charge of, say, Â£2 a ton--which is little
 more than battery price--don't you see what a tremendous profit would be
 made? You canna patent a discovery, Bob; and your only safety is in
 keeping it secret. The great danger lies in the simplicity o' the
@@ -6009,7 +5980,7 @@ following:--
      "I have just heard that you are about to start out on a journey
      into the interior, and I thought I would remind you of a little
      account I have against you for several items you sent for last
-     week. The amount is £10 17s. 6s. I'll let you off the odd sixpence,
+     week. The amount is Â£10 17s. 6s. I'll let you off the odd sixpence,
      but please send your cheque for the remainder before you start. The
      Never Never is such an uncertain country--to get out of. Best
      wishes.
@@ -6118,7 +6089,7 @@ nose-rope with one hand contrived to unearth his mouth-organ with the
 other. Strongly he blew, and stepped forth jauntily to the stirring time
 of "The Girl I left Behind Me," but his charge steadfastly refused to
 accelerate his gait in such undignified fashion, and the Shadow had
-perforce to seek around in his _répertoire_ for a more suitable march,
+perforce to seek around in his _rÃ©pertoire_ for a more suitable march,
 which he soon found in "There is a Happy Land," and he kept up his
 melancholy dirge until he heard Never Never's voice raised in dire
 threat against his person. Then there was silence, broken only by the
@@ -6156,7 +6127,7 @@ of several sheets of ordinary note-paper, gummed laterally together, and
 on its much faded surface several inky hieroglyphics stood out bravely.
 He pointed to a besmeared cross nearly halfway over the chart, and Bob,
 looking closely, read the printed lettering beside it: "Fortunate
-Spring, lat. 28° 17´ 5´´, long. 125° 19´ 6´´."
+Spring, lat. 28Â° 17Â´ 5Â´Â´, long. 125Â° 19Â´ 6Â´Â´."
 
 [Illustration: "HE UNFOLDED A LONG TRACK CHART WHICH HE CARRIED IN HIS
 HAND"]
@@ -6905,13 +6876,13 @@ anxiously, and instinctively they all turned to Bob with a questioning
 look. The young navigator winced as he took out his notebook and
 hurriedly checked his previous calculations.
 
-"We were in latitude 28° 24´ 7´´ at noon to-day," he said quietly; "that
+"We were in latitude 28Â° 24Â´ 7Â´Â´ at noon to-day," he said quietly; "that
 should make us about seven miles only from the location of Fortunate
 Spring, allowing we made five miles since lunch."
 
 "But the longitude, Bob?" asked Mackay. "How do we stand for that?"
 
-Bob again examined his log-book. "I have it marked at 125° 11´ 17´´," he
+Bob again examined his log-book. "I have it marked at 125Â° 11Â´ 17Â´Â´," he
 answered, "but we came a good bit easterly since that. I'll try it again
 in the morning, though I think we're almost on the correct line now, and
 should hit the Spring by going due north."
@@ -7142,7 +7113,7 @@ said he, in gentle reproach. "Remember this is a monument to the dead."
 He motioned Bob and Jack to come forward and view the mossy inscription
 on the tree, and silently they obeyed his summons. Deep graven in the
 wood was the legend: "Fortunate Spring, 1898. Bentley's Expedition. Lat.
-28° 17´ 5´´, long. 125° 19´ 6´´ (Dead Reck.) Course E." Then followed a
+28Â° 17Â´ 5Â´Â´, long. 125Â° 19Â´ 6Â´Â´ (Dead Reck.) Course E." Then followed a
 list of the initials of the party headed by those of Mackay: "J. M."
 
 By this time Emu Bill, Never Never Dave, and the Shadow had also
@@ -7556,7 +7527,7 @@ thing happened; while the demoralized natives around the vacated camp
 kept up their frenzied rushing hither and thither, seeking aimlessly
 their hidden enemy, the four camels of the expedition, aroused by the
 unusual sounds prevailing, stalked slowly forward into the thick of the
-mêlée, and there they stood, their long necks swaying curiously, like
+mÃªlÃ©e, and there they stood, their long necks swaying curiously, like
 fearsome spectres from an unknown world. A howl of terror burst from the
 group who had located the position of the defenders, they ceased their
 onward course, hesitated for a moment, then turned and fled
@@ -7893,7 +7864,7 @@ CHAPTER XIII
 The Mystic Mountain
 
 
-"Latitude 27° 42´ 10´´, longitude 128° 7´ 11´´." It was noon three days
+"Latitude 27Â° 42Â´ 10Â´Â´, longitude 128Â° 7Â´ 11Â´Â´." It was noon three days
 after leaving Thirsty Spring, as their last strangely-found well had
 been designated, and Bob read aloud these observations as he noted them
 down in his log-book. They had reached the vicinity of Bentley's last
@@ -8211,7 +8182,7 @@ order to discover the least impregnable aspect of the frowning barrier,
 and as the little party moved along they carried their rifles ready for
 immediate action in case of a sudden alarm. But not a sign of natives
 was observed, and they tramped mile after mile over the jagged rocky
-_débris_ lining the base of the mountain without once noting an easier
+_dÃ©bris_ lining the base of the mountain without once noting an easier
 place of ascent than that which they had first gazed upon. Not a trace
 of vegetation showed on the steep declivity; the bare rocks scintillated
 in the last rays of the setting sun, and showed up barren and
@@ -8661,7 +8632,7 @@ Then a thin, weak voice answered out of the gloom by the ravine.
 
 "I is right here, Bill, old man, right here."
 
-And there they found him, lying aslant on the loose _débris_ as he had
+And there they found him, lying aslant on the loose _dÃ©bris_ as he had
 fallen, an inert mass. His face was upturned to the sky, and his breath
 issued between his clenched teeth in long spasmodic jerks. He smiled
 feebly as they bent over him.
@@ -9095,7 +9066,7 @@ Mackay had examined the barricade once or twice earlier in the day, and
 noticed no change in its appearance, and was convinced that nothing
 short of gelignite cartridges could shift their obstruction from the
 inside. Bob held the same opinion, but he was nevertheless curious to
-see what sort of efforts were being made. Making a short _détour_, they
+see what sort of efforts were being made. Making a short _dÃ©tour_, they
 silently approached the entrance to the underground passage from the
 side farthest from the movable rocky slab. The interstice had been
 well-nigh filled with diorite boulders, leaving only the top of the
@@ -11437,365 +11408,4 @@ far than gold or gems is the love of our fellow-men."
 
 End of Project Gutenberg's The Lost Explorers, by Alexander MacDonald
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE LOST EXPLORERS ***
-
-***** This file should be named 57244-8.txt or 57244-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/2/4/57244/
-
-Produced by Martin Pettit and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from scans of public domain works at The National
-Library of Australia.)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57244 ***
